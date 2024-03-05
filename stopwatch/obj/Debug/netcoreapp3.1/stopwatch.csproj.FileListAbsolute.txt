@@ -1,0 +1,13 @@
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/stopwatch/bin/Debug/netcoreapp3.1/stopwatch
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/stopwatch/bin/Debug/netcoreapp3.1/stopwatch.deps.json
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/stopwatch/bin/Debug/netcoreapp3.1/stopwatch.runtimeconfig.json
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/stopwatch/bin/Debug/netcoreapp3.1/stopwatch.runtimeconfig.dev.json
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/stopwatch/bin/Debug/netcoreapp3.1/stopwatch.dll
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/stopwatch/bin/Debug/netcoreapp3.1/stopwatch.pdb
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/stopwatch/obj/Debug/netcoreapp3.1/stopwatch.csprojAssemblyReference.cache
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/stopwatch/obj/Debug/netcoreapp3.1/stopwatch.AssemblyInfoInputs.cache
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/stopwatch/obj/Debug/netcoreapp3.1/stopwatch.AssemblyInfo.cs
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/stopwatch/obj/Debug/netcoreapp3.1/stopwatch.csproj.CoreCompileInputs.cache
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/stopwatch/obj/Debug/netcoreapp3.1/stopwatch.dll
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/stopwatch/obj/Debug/netcoreapp3.1/stopwatch.pdb
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/stopwatch/obj/Debug/netcoreapp3.1/stopwatch.genruntimeconfig.cache

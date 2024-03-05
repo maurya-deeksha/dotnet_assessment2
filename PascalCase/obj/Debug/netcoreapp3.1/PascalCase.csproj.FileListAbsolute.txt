@@ -1,0 +1,13 @@
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/PascalCase/bin/Debug/netcoreapp3.1/PascalCase
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/PascalCase/bin/Debug/netcoreapp3.1/PascalCase.deps.json
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/PascalCase/bin/Debug/netcoreapp3.1/PascalCase.runtimeconfig.json
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/PascalCase/bin/Debug/netcoreapp3.1/PascalCase.runtimeconfig.dev.json
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/PascalCase/bin/Debug/netcoreapp3.1/PascalCase.dll
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/PascalCase/bin/Debug/netcoreapp3.1/PascalCase.pdb
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/PascalCase/obj/Debug/netcoreapp3.1/PascalCase.csprojAssemblyReference.cache
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/PascalCase/obj/Debug/netcoreapp3.1/PascalCase.AssemblyInfoInputs.cache
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/PascalCase/obj/Debug/netcoreapp3.1/PascalCase.AssemblyInfo.cs
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/PascalCase/obj/Debug/netcoreapp3.1/PascalCase.csproj.CoreCompileInputs.cache
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/PascalCase/obj/Debug/netcoreapp3.1/PascalCase.dll
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/PascalCase/obj/Debug/netcoreapp3.1/PascalCase.pdb
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/PascalCase/obj/Debug/netcoreapp3.1/PascalCase.genruntimeconfig.cache

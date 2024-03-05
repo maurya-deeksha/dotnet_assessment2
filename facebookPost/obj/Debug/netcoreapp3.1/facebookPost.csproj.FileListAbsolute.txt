@@ -1,0 +1,13 @@
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/facebookPost/bin/Debug/netcoreapp3.1/facebookPost
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/facebookPost/bin/Debug/netcoreapp3.1/facebookPost.deps.json
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/facebookPost/bin/Debug/netcoreapp3.1/facebookPost.runtimeconfig.json
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/facebookPost/bin/Debug/netcoreapp3.1/facebookPost.runtimeconfig.dev.json
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/facebookPost/bin/Debug/netcoreapp3.1/facebookPost.dll
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/facebookPost/bin/Debug/netcoreapp3.1/facebookPost.pdb
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/facebookPost/obj/Debug/netcoreapp3.1/facebookPost.csprojAssemblyReference.cache
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/facebookPost/obj/Debug/netcoreapp3.1/facebookPost.AssemblyInfoInputs.cache
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/facebookPost/obj/Debug/netcoreapp3.1/facebookPost.AssemblyInfo.cs
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/facebookPost/obj/Debug/netcoreapp3.1/facebookPost.csproj.CoreCompileInputs.cache
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/facebookPost/obj/Debug/netcoreapp3.1/facebookPost.dll
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/facebookPost/obj/Debug/netcoreapp3.1/facebookPost.pdb
+/home/knoldus/deeksha/dotNetlearningAssignments/assignment2/facebookPost/obj/Debug/netcoreapp3.1/facebookPost.genruntimeconfig.cache
